@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding ="utf-8"?>
+<resources>
+
+    <string name="app_name">FLutter Firebase App</string>
+    <string name="facebook_app_id">255177394067636</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">73ab7d863d995e7fc22be44ccb3f6322</string>
+
+
+
+</resources>
