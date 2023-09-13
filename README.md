@@ -9,4 +9,4 @@ Key Features:
 * Activity Tracking.
 * Workout Guiding Plans.
 * Notifications and Reminders.
-* Multi-Platform Support (Flutter)
+* Multi-Platform Support (Flutter).
